@@ -1,0 +1,13 @@
+.h-40{
+    max-height: 40%;
+}
+#spinner{
+    display: none,;
+    text-align: center;
+    
+}
+.footimg{
+    height: 60px;
+    width: 60px;
+   
+}
